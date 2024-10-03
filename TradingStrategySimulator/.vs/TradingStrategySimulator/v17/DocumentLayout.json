@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|c:\\users\\jco10\\documents\\personalprojects\\financewithdotnet\\tradingstrategysimulator\\tradingstrategysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|solutionrelative:tradingstrategysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|c:\\users\\jco10\\documents\\personalprojects\\financewithdotnet\\tradingstrategysimulator\\tradingstrategysimulator\\services\\itradingstrategyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|solutionrelative:tradingstrategysimulator\\services\\itradingstrategyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|c:\\users\\jco10\\documents\\personalprojects\\financewithdotnet\\tradingstrategysimulator\\tradingstrategysimulator\\models\\tradingstrategyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|solutionrelative:tradingstrategysimulator\\models\\tradingstrategyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|c:\\users\\jco10\\documents\\personalprojects\\financewithdotnet\\tradingstrategysimulator\\tradingstrategysimulator\\models\\tradingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|solutionrelative:tradingstrategysimulator\\models\\tradingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|c:\\users\\jco10\\documents\\personalprojects\\financewithdotnet\\tradingstrategysimulator\\tradingstrategysimulator\\controllers\\tradingstrategycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1D0B51-9ABB-400F-995E-42D8EC144A6F}|TradingStrategySimulator\\TradingStrategySimulator.csproj|solutionrelative:tradingstrategysimulator\\controllers\\tradingstrategycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradingStrategyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategyRequest.cs",
+              "RelativeDocumentMoniker": "TradingStrategySimulator\\Models\\TradingStrategyRequest.cs",
+              "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategyRequest.cs",
+              "RelativeToolTip": "TradingStrategySimulator\\Models\\TradingStrategyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:38:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategy.cs",
+              "RelativeDocumentMoniker": "TradingStrategySimulator\\Models\\TradingStrategy.cs",
+              "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategy.cs",
+              "RelativeToolTip": "TradingStrategySimulator\\Models\\TradingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:38:34.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITradingStrategyService.cs",
+              "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
+              "RelativeDocumentMoniker": "TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
+              "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
+              "RelativeToolTip": "TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:37:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradingStrategyController.cs",
+              "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
+              "RelativeDocumentMoniker": "TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
+              "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
+              "RelativeToolTip": "TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:34:50.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs",
+              "RelativeDocumentMoniker": "TradingStrategySimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs",
+              "RelativeToolTip": "TradingStrategySimulator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:01:31.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
