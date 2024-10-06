@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TradingStrategySimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012e9137495483f7150131f9f3fa26e0cdff538e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efced6e676438e4d4ade0006ada6fb767193dd3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TradingStrategySimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TradingStrategySimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

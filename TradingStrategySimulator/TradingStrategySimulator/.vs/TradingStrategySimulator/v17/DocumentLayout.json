@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TradingStrategyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Services\\ITradingStrategyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ITradingStrategyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategyRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TradingStrategyRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TradingStrategyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TradingStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ITradingStrategyService.cs",
               "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
               "RelativeDocumentMoniker": "Services\\ITradingStrategyService.cs",
               "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Services\\ITradingStrategyService.cs",
               "RelativeToolTip": "Services\\ITradingStrategyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:08:57.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TradingStrategyController.cs",
               "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
               "RelativeDocumentMoniker": "Controllers\\TradingStrategyController.cs",
               "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Controllers\\TradingStrategyController.cs",
               "RelativeToolTip": "Controllers\\TradingStrategyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:08:48.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TradingStrategyRequest.cs",
               "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategyRequest.cs",
               "RelativeDocumentMoniker": "Models\\TradingStrategyRequest.cs",
@@ -68,12 +68,11 @@
               "RelativeToolTip": "Models\\TradingStrategyRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:08:43.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T03:08:43.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TradingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Models\\TradingStrategy.cs",
               "RelativeDocumentMoniker": "Models\\TradingStrategy.cs",
@@ -81,18 +80,17 @@
               "RelativeToolTip": "Models\\TradingStrategy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:08:41.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T03:08:41.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jco10\\Documents\\PersonalProjects\\FinanceWithDotNet\\TradingStrategySimulator\\TradingStrategySimulator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:06:45.973Z",
               "EditorCaption": ""
